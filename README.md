@@ -6,6 +6,10 @@
 <img width="1292" alt="Screenshot 2024-12-29 at 11 14 46" src="https://github.com/user-attachments/assets/6518809f-ba67-41d3-8d6c-bae49f330ae6" />
 <img width="1292" alt="Screenshot 2024-12-29 at 11 15 05" src="https://github.com/user-attachments/assets/7b72ec15-55d0-44dd-97bd-fdca8eb09f7a" />
 
+
+## Online Video
+https://github.com/ViewTurbo/ViewTurbo/releases/download/bin/tutorial.mp4
+
 ## Our Mission
 
 We are dedicated to providing users with an unobstructed and secure internet experience, allowing them to freely browse global content without worrying about data leaks or monitoring.
