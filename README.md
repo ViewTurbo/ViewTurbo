@@ -8,7 +8,7 @@
 
 
 ## Online Video
-https://github.com/ViewTurbo/ViewTurbo/releases/download/bin/tutorial_pc.mp4
+https://youtu.be/FpG56TiZtis
 
 ## Our Mission
 
