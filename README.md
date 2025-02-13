@@ -10,6 +10,9 @@
 ## Online Video
 https://youtu.be/FpG56TiZtis
 
+## Speed Test
+https://youtu.be/6ONvTOUDceI
+
 ## Our Mission
 
 We are dedicated to providing users with an unobstructed and secure internet experience, allowing them to freely browse global content without worrying about data leaks or monitoring.
