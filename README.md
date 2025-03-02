@@ -1,4 +1,4 @@
-# [ViewTurbo VPN](https://viewturbo.github.io/web/) 🚀
+# <a href="https://viewturbo.github.io/web/" target="_blank">ViewTurbo VPN 🚀</a>
 
 **ViewTurbo might be the fastest proxy you’ve ever used / ViewTurbo 可能是您使用過的最快代理**
 
@@ -54,9 +54,11 @@ If you have any questions or suggestions, feel free to reach out to us:
 
 如果您有任何問題或建議，請隨時與我們聯繫：
 
-- 📧 Email: support@viewturbo.com  
-- 🌐 Website: [www.viewturbo.com](https://www.viewturbo.com)
+- 📧 Email: support@viewturbo.com
+- 🌐 Website: <a href="https://viewturbo.github.io/web/" target="_blank">ViewTurbo VPN 🚀</a>
+
+## ☺️ Thank you! / 謝謝
+If you really like our project, please give us a Star. / 如果您真的喜歡我們的專案，請給我們一個 Star。
 
 ---
-
 &copy; 2024 ViewTurbo VPN. All rights reserved. / 版權所有 2024 ViewTurbo VPN，保留所有權利。
