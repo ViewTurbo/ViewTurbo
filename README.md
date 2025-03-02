@@ -6,8 +6,8 @@
 ![Screenshot](https://github.com/user-attachments/assets/7b72ec15-55d0-44dd-97bd-fdca8eb09f7a)
 
 ## 🌎 Multi-Language Support / 多語言支援 🗣️
-- 🇺🇸 English
-- 🇹🇼 中文-繁體
+- English
+- 中文-繁體
 
 ## 💻 Platform Support / 平台支援
 - 🖥️ Windows  
