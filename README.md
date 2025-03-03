@@ -58,7 +58,9 @@ If you have any questions or suggestions, feel free to reach out to us:
 - 🌐 Website: <a href="https://viewturbo.github.io/web/" target="_blank">ViewTurbo VPN 🚀</a>
 
 ## ☺️ Thank you! / 謝謝
-If you really like our project, please give us a Star. / 如果您真的喜歡我們的專案，請給我們一個 Star。
+If you really like our project, please give us a Star ⭐️. 
+
+如果您真的喜歡我們的專案，請給我們一個 Star ⭐️。
 
 ---
 &copy; 2024 ViewTurbo VPN. All rights reserved. / 版權所有 2024 ViewTurbo VPN，保留所有權利。
