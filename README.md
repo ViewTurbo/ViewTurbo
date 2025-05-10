@@ -30,6 +30,10 @@ We are dedicated to providing users with an unobstructed and secure internet exp
 我们致力于为用户提供流畅、安全的上网体验，让他们自由访问全球内容，无需担心数据泄露或监控。  
 
 ## 🔑 Key Features / 主要特点  
+- **🕸️ Smart routing / 超智能分流**  
+  Supercharged routing with an ultra-smooth user experience.   
+  超级增强的分流方式，超级丝滑的使用体验。
+
 - **⚡ High Speed / 极速连接**  
   Utilizes advanced server architecture to ensure quick connections and smooth internet experiences.  
   采用先进的服务器架构，确保快速稳定的网络体验。  
