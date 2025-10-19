@@ -66,7 +66,7 @@ If you have any questions or suggestions, feel free to reach out to us:
 ## ☺️ Thank you! / 感谢支持！  
 If you really like our project, please give us a Star ⭐️.  
 
-如果您喜欢我们的项目，请给我们一个 Star ⭐️。  
+如果您喜欢我们的项目并Follow us防丢失，请给我们一个 Star ⭐️。  
 
 ---
 
