@@ -5,6 +5,8 @@
 ![Screenshot](https://github.com/user-attachments/assets/6518809f-ba67-41d3-8d6c-bae49f330ae6)  
 ![Screenshot](https://github.com/user-attachments/assets/7b72ec15-55d0-44dd-97bd-fdca8eb09f7a)  
 
+https://github.com/user-attachments/assets/9e323631-ecf1-4750-9979-61b8e3495f54
+
 ---
 
 ## 🌎 Multi-Language Support / 多语言支持 🗣️  
