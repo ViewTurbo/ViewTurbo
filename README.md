@@ -31,14 +31,14 @@ We are dedicated to providing users with an unobstructed and secure internet exp
 
 我们致力于为用户提供流畅、安全的上网体验，让他们自由访问全球内容，无需担心数据泄露或监控。  
 
-## 🔑 Key Features / 主要特点  
+## 🔑 Key Features / 主要特点 
+- **🚀 20Gbps Bandwidth / 超20G顶级带宽**  
+  Powered by premium 20Gbps-class infrastructure, unleashing extreme throughput under high-load scenarios.  
+  采用超20G顶级带宽服务器架构，在高并发环境下依然稳定输出，释放极致性能。
+  
 - **🕸️ Smart routing / 超智能分流**  
   Supercharged routing with an ultra-smooth user experience.   
-  超级增强的分流方式，超级丝滑的使用体验。
-
-- **⚡ High Speed / 极速连接**  
-  Utilizes advanced server architecture to ensure quick connections and smooth internet experiences.  
-  采用先进的服务器架构，确保快速稳定的网络体验。  
+  超级增强的分流方式，超级丝滑的使用体验，真正做到无感使用VPN。
 
 - **🔒 Strong Encryption / 强大加密**  
   Employs industry-leading encryption technology to safeguard your online data.  
