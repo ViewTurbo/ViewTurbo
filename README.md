@@ -36,10 +36,14 @@ We are dedicated to providing users with an unobstructed and secure internet exp
   Powered by premium 20Gbps-class infrastructure, unleashing extreme throughput under high-load scenarios.  
   采用超20G顶级带宽服务器架构，在高并发环境下依然稳定输出，释放极致性能。
   
+- **♾️ Unlimited Speed & Data / 不限速度 · 不限流量**  
+  No throttling, no data caps — enjoy true unlimited access anytime, anywhere.  
+  不限速，不限流量，无限畅享高速网络体验，随时随地自由连接。
+
 - **🕸️ Smart routing / 超智能分流**  
   Supercharged routing with an ultra-smooth user experience.   
   超级增强的分流方式，超级丝滑的使用体验，真正做到无感使用VPN。
-
+  
 - **🔒 Strong Encryption / 强大加密**  
   Employs industry-leading encryption technology to safeguard your online data.  
   使用行业领先的加密技术，全面保护您的在线数据安全。  
