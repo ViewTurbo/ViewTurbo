@@ -1,10 +1,10 @@
 # [ViewTurbo VPN](https://viewturbo.github.io/web/)
 
-[English](./README.en.md) | [简体中文](./README.zh-CN.md) | [Русский](./README.ru.md)
+[English](./README.en.md) | [简体中文](./README.zh-CN.md) | [Русский](./README.ru.md) | [日本語](./README.ja.md) | [Español](./README.es.md) | [हिन्दी](./README.hi.md) | [العربية](./README.ar.md) | [Français](./README.fr.md)
 
 **ViewTurbo, возможно, самый быстрый прокси, которым вы когда-либо пользовались.**
 
-![Languages](https://img.shields.io/badge/Languages-3-1f6feb)
+![Languages](https://img.shields.io/badge/Languages-8-1f6feb)
 ![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Android%20%7C%20iOS-0a7f5a)
 
 ## Быстрые ссылки
@@ -22,6 +22,11 @@
 - English
 - 简体中文
 - Русский
+- 日本語
+- Español
+- हिन्दी
+- العربية
+- Français
 
 ## Поддерживаемые платформы
 
