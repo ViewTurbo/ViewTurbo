@@ -15,8 +15,6 @@
 
 <img src="https://assets.vtfly.com/img/client.png" alt="ViewTurbo client" width="420" />
 
-https://github.com/user-attachments/assets/9e323631-ecf1-4750-9979-61b8e3495f54
-
 ---
 
 ## Multi-Language Support
