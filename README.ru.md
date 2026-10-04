@@ -13,8 +13,7 @@
 - [Онлайн-видео](https://youtu.be/FpG56TiZtis)
 - [Тест скорости](https://youtu.be/6ONvTOUDceI)
 
-![Screenshot](https://github.com/user-attachments/assets/6518809f-ba67-41d3-8d6c-bae49f330ae6)
-![Screenshot](https://github.com/user-attachments/assets/7b72ec15-55d0-44dd-97bd-fdca8eb09f7a)
+<img src="https://assets.vtfly.com/img/client.png" alt="Клиент ViewTurbo" width="420" />
 
 https://github.com/user-attachments/assets/9e323631-ecf1-4750-9979-61b8e3495f54
 
